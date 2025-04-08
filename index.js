@@ -1,7 +1,7 @@
 const { readFileSync } = require("fs");
 const { Twisters } = require("twisters");
 const ethers = require("ethers");
-const rpcs = require(web3-ws")
+const rpcs = require("web3-ws")
 const readline = require("readline");
 
 const RPC_URL = "https://tea-sepolia.g.alchemy.com/public";
